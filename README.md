@@ -23,7 +23,7 @@
       width="40"
   /></a>
   <a
-    href="https://fb.com/https://www.facebook.com/ankana.sen.12/"
+    href="ankana.sen.12"
     target="blank"
     ><img
       align="center"
