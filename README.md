@@ -23,12 +23,12 @@
       width="40"
   /></a>
   <a
-    href="facebook.com/ankana.sen.12"
+    href="https://fb.com/https://www.facebook.com/ankana.sen.12/"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="facebook.com/ankana.sen.12"
+      alt="https://www.facebook.com/ankana.sen.12/"
       height="30"
       width="40"
   /></a>
